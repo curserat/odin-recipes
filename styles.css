@@ -1,0 +1,43 @@
+@font-face{
+    font-family: Obitron;
+    src: url(Orbitron-VariableFont_wght.ttf)
+}
+
+/* Homepage CSS */
+body{
+    font-family:Obitron;
+    background-color:#ecd09d91;
+}
+.greeting,
+.advertise{
+    text-align:center;
+}
+.advertise{
+    font-style:italic;
+    background-color:#9b1823;
+    color:#ffc985; 
+}
+
+.day,
+.facts{
+    color:#9b1823;
+}
+
+.dex{
+    height:auto;
+    width:800px;
+}
+
+/* CSS that alters .html files other than index.html */
+.bantha{
+    height:auto;
+    width:500px;
+}
+.milk{
+    height:auto;
+    width:200px;
+}
+.porg{
+    height:auto;
+    width:400px;
+}
